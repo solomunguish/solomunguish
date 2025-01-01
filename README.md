@@ -1,4 +1,4 @@
-## Welcome to Portoflio
+## Welcome to My Portoflio
 
 Hello👋 My name is Solomun Guish, nice to meet you!
 
