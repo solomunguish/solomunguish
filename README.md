@@ -1,4 +1,6 @@
-## Hello👋 My name is Solomun Guish and this is my portoflio! 
+## Welcome to Portoflio
+
+Hello👋 My name is Solomun Guish, nice to meet you!
 
 About Me:
 - 1st year engineering student at the University of Toronto
