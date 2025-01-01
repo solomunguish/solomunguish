@@ -2,11 +2,9 @@
 
 About Me:
 
-🎓 Engineering student at the University of Toronto
-
-⚖  Interest: Law
-
-🌱 Currently Exploring: Data Science
+- 🎓 Engineering student at the University of Toronto
+- ⚖  Interest: Law
+- 🌱 Currently Exploring: Data Science
 
 How to Reach me:
 - guishsolomun@gmail.com
